@@ -1,6 +1,6 @@
 # M7 Streamlit - Hack Boss Ejer
 
-Este repositorio forma parte del ejercicio **Hack Boss Ejer** y contiene una aplicación web interactiva desarrollada con [Streamlit](https://streamlit.io/). La aplicación ha sido diseñada para demostrar el uso de técnicas modernas en el desarrollo de interfaces interactivas con Python.
+Este repositorio forma parte del ejercicio 7 y contiene una aplicación web interactiva desarrollada con [Streamlit](https://streamlit.io/). La aplicación ha sido diseñada para demostrar el uso de técnicas modernas en el desarrollo de interfaces interactivas con Python.
 
 ## Aplicación.
 
@@ -13,7 +13,7 @@ Este repositorio forma parte del ejercicio **Hack Boss Ejer** y contiene una apl
 
 ## Descripción
 
-La aplicación implementada en este módulo se encuadra en el contexto de la asignatura o desafío hackathon "Hack Boss Ejer". Su propósito principal es mostrar la integración de datos y visualizaciones en tiempo real, ofreciendo una interfaz sencilla y elegante mediante Streamlit. Entre las funcionalidades destacadas se incluyen:
+La aplicación implementada en este módulo se encuadra en el contexto de la asignatura o desafío hackathon "Streamlit". Su propósito principal es mostrar la integración de datos y visualizaciones en tiempo real, ofreciendo una interfaz sencilla y elegante mediante Streamlit. Entre las funcionalidades destacadas se incluyen:
 - Visualización interactiva de datos.
 - Integración de componentes de Python para análisis de información.
 - Implementación de un flujo de trabajo que permite la expansión y personalización de la aplicación.
@@ -36,4 +36,6 @@ La aplicación implementada en este módulo se encuadra en el contexto de la asi
    git clone https://github.com/loritobad/hack_boss_ejer.git
 
 2. **Instalar requeriments.**
-    Ejecute requeriments.txt con pip install -r requeriments.txt
+    Ejecute requeriments.txt con:
+    ```bash
+    pip install -r requeriments.txt
