@@ -121,8 +121,13 @@ celerybeat.pid
 # SageMath parsed files
 *.sage.py
 
+pipe_regresion.joblib
+pipe_clasificacion.joblib
+historico_predicciones.csv
+historico_predicciones_cla.csv
+diamonds.csv
 # Environments
-ejercicios-boss
+boss
 .env
 .venv
 env/
