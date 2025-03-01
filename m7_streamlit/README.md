@@ -1,4 +1,4 @@
-# M7 Streamlit - Hack Boss Ejer
+# M7 Streamlit - Hack Boss
 
 Este repositorio forma parte del ejercicio 7 y contiene una aplicación web interactiva desarrollada con [Streamlit](https://streamlit.io/). La aplicación ha sido diseñada para demostrar el uso de técnicas modernas en el desarrollo de interfaces interactivas con Python.
 
